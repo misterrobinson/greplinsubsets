@@ -14,7 +14,8 @@ The Greplin Challenge 3 problem is as follows:
     2 + 4 = 6
     1 + 2 + 3 = 6
 
-  So the answer is 4. There are 4 subsets that match the desired pattern. The program does not need to remember or        printout the relevant subsets -- just the correct count of subsets that match the requirements. 
+  So the answer is 4. There are 4 subsets that match the desired pattern. The program does not need to remember or        printout the relevant subsets -- just the correct count of subsets that match the requirements. In Greplin Challenge 3, the programmer must write analgorithm to find the correct number of subsets given the input array of:
+  [3, 4, 9, 14, 15, 19, 28, 37, 47, 50, 54, 56, 59, 61, 70, 73, 78, 81, 92, 95, 97, 99]
  
 
 TYPICAL APPROACH:
