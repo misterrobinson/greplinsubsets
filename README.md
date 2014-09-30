@@ -3,7 +3,7 @@ greplinsubsets
 
 Optimized solution for Greplin Challenge 3
 
-The commonly posted solutions for Greplin Challenge 3 are not fully optimized. This repo includes a PHP script that demonstrates the common (sub-optimal) approach, and an optimized approach that executes in roughly half the time. 
+The commonly posted solutions for Greplin Challenge 3 are not fully optimized. This repo includes a PHP script that demonstrates the common (sub-optimal) approach, and an optimized approach that executes roughly SIX TIMES FASTER. 
 
 For more information on Greplin Challenge 3, please see:
 
